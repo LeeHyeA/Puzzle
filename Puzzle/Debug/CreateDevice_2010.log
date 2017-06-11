@@ -1,0 +1,6 @@
+﻿  2D_Main.cpp
+c:\users\lhk\desktop\퍼즐게임\2d_main.cpp(99): warning C4100: 'lpCmdLine': 참조되지 않은 정식 매개 변수입니다.
+c:\users\lhk\desktop\퍼즐게임\2d_main.cpp(98): warning C4100: 'hPrevInstance': 참조되지 않은 정식 매개 변수입니다.
+c:\users\lhk\desktop\퍼즐게임\2d_main.cpp(285): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CreateDevice_2010.vcxproj -> C:\Users\LHK\Desktop\퍼즐게임\Debug\CreateDevice.exe
+  CreateDevice_2010.vcxproj -> C:\Users\LHK\Desktop\퍼즐게임\Debug\CreateDevice.pdb (Full PDB)
